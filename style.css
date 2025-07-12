@@ -41,7 +41,7 @@ body {
 }
 
 .sidebar h1 {
-  font-size: 44px;
+  font-size: 40px;
   margin-bottom: 10px;
   margin-top: -30px;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .padding{
-  padding: 20px 60px 40px 20px;
+  padding: 10px 60px 20px 20px;
 }
 
 .main-slide {
@@ -115,7 +115,7 @@ button:focus {
     color: #fff;
     border-radius: 14px;
     padding: 16px 20px;
-    margin: 20px;
+    margin: 0 20px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.10);
 }
 .ingredients h4, .ingredients p {
