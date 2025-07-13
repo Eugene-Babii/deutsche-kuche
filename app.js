@@ -257,8 +257,8 @@ const germanDishes = [
 function generateSlideHTML(slide, index) {
     return `
         <div style="background: ${slide.gradient};">
-            <h2>${slide.icon} ${slide.region}</h2>
-            <h1>${slide.title}</h1>
+            <h2>${slide.region}</h2>
+            <h1>${slide.title} ${slide.icon}</h1>
             <p class="description">${slide.description}</p>
             <div class="ingredients">
                 <h4>Zutaten:</h4>
